@@ -1,0 +1,12 @@
+	A.Shanks	R.Benesch	K.Jackson	E.Fannell	C.Petterson	C.Jamieson	S.Keogh	G.Hossack	M.Burke	Other
+A.Shanks	0	1	2	1	1	4	0	0	0	0
+C.Jamieson	4	6	0	0	4	0	8	1	2	0
+C.Petterson	2	3	1	0	0	4	1	0	0	0
+K.Jackson	1	1	0	1	1	0	1	0	2	0
+M.Burke	0	1	1	2	1	5	2	0	0	0
+R.Benesch	5	0	2	2	3	4	1	0	2	1
+S.Keogh	0	3	0	0	3	3	0	0	0	0
+G.Hossack	0	0	0	0	0	2	0	0	0	0
+E.Fannell	0	0	0	0	0	1	0	0	0	0
+C.Boushy	0	0	0	0	0	0	2	0	0	0
+Other	1	0	0	0	0	0	0	1	1	0
