@@ -1,0 +1,10 @@
+	A.Murphy	B.McIntosh	M.Dinsdale	M.Matthews	J.Shattler	R.Church	R.Keenan	C.Robinson
+A.Murphy	0	0	0	0	1	0	0	0
+B.McIntosh	0	0	1	2	3	1	1	0
+M.Dinsdale	0	1	0	1	0	0	1	0
+M.Matthews	2	5	1	0	5	1	11	0
+J.Shattler	0	4	1	2	0	4	2	0
+R.Church	0	3	0	2	2	0	1	3
+R.Keenan	0	2	0	0	1	5	0	1
+C.Robinson	0	2	0	0	1	0	0	0
+Other	0	2	2	1	0	0	0	0
